@@ -2,7 +2,7 @@
 
 Este ejercicio se llevó a cabo haciendo uso de localStorage y posteriormente se implementó una base de datos con IndexedDB para agendar citas médicas, eliminarlas, y agregar doctores o eliminarlos.
 
-## [GITHUB: https://github.com/LeenahJz/EJER1MOD6]
+## [GITHUB: https://github.com/LeenahJz/EJER2MOD6]
 
 requerimientos
 
